@@ -12,6 +12,6 @@
 - Unable to achieve target performance of 75% accuracy
 - In an effort to achieve optimal model performance, the number of neurons in each layer was increased, the number of overall layers were increased, the number of epochs were increased and different activation functions (tanh) were explored
 
-  **Summary**
+**Summary**
   - The initial and optimized models achieved an accuracy metric of 72-73% and loss metric of 53-55%
   - Further improvement could be derived from using a feature importance approach, removing the least important features within the model as well as uzing this information to enhance data collection to build a more predictive model.
